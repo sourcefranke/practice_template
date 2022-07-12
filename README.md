@@ -8,6 +8,13 @@ This is my template repository[^1] for personal practice sessions. I plan to pub
 | **Build Tool** | Gradle[^4] |
 | **Framework** | Spring Boot[^5] |
 
+## UML
+```plantuml
+@startuml
+Bob -> Alice: Hello!
+@enduml
+```
+
 [^1]: [Creating a template repository on GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 [^2]: [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 [^3]: https://kotlinlang.org/
